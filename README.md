@@ -4,9 +4,9 @@ This project focuses on performing Exploratory Data Analysis (EDA) using SQL to 
 
 
 # Analysis Workflow
-**1. Database Exploration:** 
+1.**Database Exploration:** 
   - Exploring all the objects in the database to get an indepth understanding of the data.
-**2. Dimension Exploration:**
+2.**Dimension Exploration:**
   - Identifying unique values or categories in each dimensions. It helps to recognize how the data might be grouped or segmented.
 **3. Date Exploration:**
   - Identifying the earliest and latest dates to get a clear understanding about the time span of the data.
